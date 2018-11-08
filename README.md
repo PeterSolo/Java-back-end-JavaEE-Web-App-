@@ -4,7 +4,7 @@ Requirements:
 1. Java IDE with any server plugin installed(eg. Glassfish server)
 2.Database(DBMS)eg. MySql
 3. java mysql connector library(included in the repo as jstl-api-1.2-sources.jar	)
-4. jstl tags library(included in the repo)
+4. jstl tags library(included in the repo as mysql-connector-java	)
 
 Setup:
 1. open project using IDE
