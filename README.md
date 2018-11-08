@@ -13,3 +13,4 @@ Setup:
   to yours
 3. resolve the dependencies problem by 
    right cliking on project
+4. Initialise your database using Database Dumps	files.   
