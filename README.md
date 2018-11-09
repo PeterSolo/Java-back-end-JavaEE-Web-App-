@@ -1,4 +1,4 @@
-This project a JavaEE project that demonstrates how to build a back-end based on Java. The back-end is the main part of this project. The Webpages
+This project is a JavaEE project that demonstrates how to build a back-end based on Java. The back-end is the main part of this project. The Webpages
 are downloaded from online.
 Requirements:
 1. Java IDE with any server plugin installed(eg. Glassfish server)
